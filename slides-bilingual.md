@@ -1,11 +1,14 @@
 ---
 theme: white
+css: [slides.css]
 width: 1024
 height: 768
 center: false
 transition: fade
 slideNumber: true
 ---
+
+<!-- .slide: class="title-slide" -->
 
 # Managing your digital world
 
@@ -16,6 +19,8 @@ Laurie Griffiths
 <!-- Presenter: 0–0.5 min. Beginner workshop with short activities throughout. Timings include activities; optional extensions are outside the hour. Use pre-opened demo vaults. Participants may work with a partner or follow along. Keep plugin installation out of exercise time. -->
 
 ---
+
+<!-- .slide: class="title-slide" -->
 
 # デジタルな日常を整理する
 
@@ -252,6 +257,8 @@ That is already useful.
 
 ---
 
+<!-- .slide: class="activity" -->
+
 # Your turn
 
 **3 minutes · Your own vault · No plugins**
@@ -266,6 +273,8 @@ A product number, a useful command, a recipe adjustment, or instructions for an 
 <!-- Presenter: 9.5–12.5 min. Success is finding their own note again. Do not ask for properties or a folder system. Paper or a partner is fine. -->
 
 ---
+
+<!-- .slide: class="activity" -->
 
 # やってみましょう
 
@@ -434,6 +443,8 @@ Mayaはリペアカフェを運営している。
 
 ---
 
+<!-- .slide: class="activity" -->
+
 # Your turn: four minutes
 
 1. Write two sentences about today.
@@ -446,6 +457,8 @@ Working on paper or watching is fine too.
 <!-- Presenter: 19.5–23.5 min. Use participant-guide.md. No plugin installation. At two minutes, show a finished example. -->
 
 ---
+
+<!-- .slide: class="activity" -->
 
 # やってみましょう：4分間
 
@@ -584,6 +597,8 @@ Dataviewのクエリを書くのは、AIが得意なことです！
 
 ---
 
+<!-- .slide: class="activity" -->
+
 # Your turn
 
 **4 minutes · Everyday vault or your own vault**
@@ -598,6 +613,8 @@ Dataviewのクエリを書くのは、AIが得意なことです！
 <!-- Presenter: 29.5–33.5 min. Help participants get one valid example working. Hours are entered manually, not calculated from the prose. Ask: what is easy to see in a table, and what still needs the full note? Success is a note that helps them resume work. -->
 
 ---
+
+<!-- .slide: class="activity" -->
 
 # やってみましょう
 
@@ -662,6 +679,8 @@ Contact to make / Waiting for reply / Next step agreed
 
 ---
 
+<!-- .slide: class="activity compact" -->
+
 # Your turn: remember the conversation, move the work
 
 **3 minutes · Everyday demo vault**
@@ -676,6 +695,8 @@ Contact to make / Waiting for reply / Next step agreed
 <!-- Presenter: 36–39 min. Spend the first minute finding Maya's September 18 conversation at Community repair afternoon about a phone-friendly sign-up form. Then allow two minutes for the board and note. No message is actually sent. Moving a card does not automatically update properties in the linked note. -->
 
 ---
+
+<!-- .slide: class="activity compact" -->
 
 # やってみましょう：会話を思い出し、次へ進める
 
@@ -736,6 +757,8 @@ Try it, record what happened, and revise the design.
 
 ---
 
+<!-- .slide: class="activity" -->
+
 # Your turn: combine two references
 
 **4 minutes · Game design demo vault**
@@ -751,6 +774,8 @@ Add a possible change and explain why it might help.
 <!-- Presenter: 41–46 min. Give the playtest prompt aloud at three minutes. Keep the first idea visible so the reason for the revision survives. The references are fictional. A short paragraph and two links are enough. -->
 
 ---
+
+<!-- .slide: class="activity" -->
 
 # やってみましょう：二つの参考資料を組み合わせる
 
@@ -816,6 +841,8 @@ One owner can connect to several site notes.
 
 ---
 
+<!-- .slide: class="activity" -->
+
 # Your turn: one owner, another site
 
 **3 minutes · Solar demo vault**
@@ -830,6 +857,8 @@ One owner can connect to several site notes.
 <!-- Presenter: 48–52 min. The core activity needs no community plugins. Keep the owner link in the note body for an easy graph demonstration. For the extension, quote the owner value as "[[Aki Mori]]" and copy a sample location format from an existing site. Locations are illustrative, not real leads. Do not spend the main exercise time configuring the map. -->
 
 ---
+
+<!-- .slide: class="activity" -->
 
 # やってみましょう：同じ所有者の別の候補地
 
@@ -896,6 +925,8 @@ Your own workflow will develop with use.
 
 ---
 
+<!-- .slide: class="activity" -->
+
 # Your first step
 
 **1 minute · Write this in your own vault**
@@ -909,6 +940,8 @@ Choose something small enough to try today.
 <!-- Presenter: 54–55 min. Give people a quiet minute to write. They do not need to adopt every workflow or plugin from the talk. -->
 
 ---
+
+<!-- .slide: class="activity" -->
 
 # 最初の一歩
 

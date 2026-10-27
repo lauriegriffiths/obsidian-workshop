@@ -1,11 +1,14 @@
 ---
 theme: white
+css: [slides.css]
 width: 1024
 height: 768
 center: false
 transition: fade
 slideNumber: true
 ---
+
+<!-- .slide: class="title-slide" -->
 
 # デジタルな日常を整理する
 
@@ -117,6 +120,8 @@ Notion、Logseq、org-modeなど、情報整理に使えるツールはいろい
 
 ---
 
+<!-- .slide: class="activity" -->
+
 # やってみましょう
 
 **3分間・自分の保管庫・プラグイン不要**
@@ -208,6 +213,8 @@ Mayaはリペアカフェを運営している。
 
 ---
 
+<!-- .slide: class="activity" -->
+
 # やってみましょう：4分間
 
 1. 今日のことを2文書きます。
@@ -283,6 +290,8 @@ Dataviewのクエリを書くのは、AIが得意なことです！
 
 ---
 
+<!-- .slide: class="activity" -->
+
 # やってみましょう
 
 **4分間・Everyday保管庫、または自分の保管庫**
@@ -322,6 +331,8 @@ Dataviewのクエリを書くのは、AIが得意なことです！
 
 ---
 
+<!-- .slide: class="activity compact" -->
+
 # やってみましょう：会話を思い出し、次へ進める
 
 **3分間・Everydayデモ保管庫**
@@ -358,6 +369,8 @@ Dataviewのクエリを書くのは、AIが得意なことです！
 <!-- 発表者メモ: 40〜41分。Limited communicationからHarbour rescue v1、Playtest 01、v2へ進む。時間があればローカルグラフを使う。注目したいのは変更の理由であって、グラフのつながりの多さではない。 -->
 
 ---
+
+<!-- .slide: class="activity" -->
 
 # やってみましょう：二つの参考資料を組み合わせる
 
@@ -399,6 +412,8 @@ Dataviewのクエリを書くのは、AIが得意なことです！
 
 ---
 
+<!-- .slide: class="activity" -->
+
 # やってみましょう：同じ所有者の別の候補地
 
 **3分間・Solarデモ保管庫**
@@ -438,6 +453,8 @@ Dataviewのクエリを書くのは、AIが得意なことです！
 <!-- 発表者メモ: 53〜54分。ガイドとデモ保管庫を案内する。別の端末で使うには同期の設定が別途必要。パソコンの保管庫が自動的にスマートフォンに表示されるわけではない。 -->
 
 ---
+
+<!-- .slide: class="activity" -->
 
 # 最初の一歩
 

@@ -13,22 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "slides.md",
+                "file": "slides-ja.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "slides"
+              "title": "slides-ja"
             }
           }
         ]
       },
       {
-        "id": "235006cec31ed315",
+        "id": "79463b0dd2c5cb1f",
         "type": "tabs",
         "children": [
           {
-            "id": "77d2bd0d4d49790c",
+            "id": "d75fa3d38eea2ebd",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -205,12 +205,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "77d2bd0d4d49790c",
+  "active": "d75fa3d38eea2ebd",
   "lastOpenFiles": [
-    "obsidian-repo.svg",
-    "slides-ja.md",
     "slides-bilingual.md",
     "slides.md",
+    "slides.css",
+    "obsidian-repo.svg",
+    "slides-ja.md",
     "cheatsheet-en.md",
     "cheatsheet-ja.md",
     "ink-cartridge.jpg",
