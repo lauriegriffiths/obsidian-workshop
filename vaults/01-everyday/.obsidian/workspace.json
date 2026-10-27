@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "2cc2b9f83fbe6122",
+    "type": "split",
+    "children": [
+      {
+        "id": "009ebc63070b60e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f3bd822e0491e9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Views/Birthdays.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Birthdays"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "196f213e2637fd1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "fdad5c78c5626687",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "478d03d7763e6c39",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "09228146d7ef971c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f9adc30ea0a85efb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "89e8dbc3b26b9a21",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae48683ea9279808",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d993bec5345aff8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Views/Birthdays.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "9ec200bcb202a496",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Views/Birthdays.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "0bef3455390be801",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e9542cc88e35ef42",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Views/Birthdays.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "5f3bd822e0491e9e",
+  "lastOpenFiles": [
+    "Views/Projects overview.md",
+    "Views/Contacts overview.md",
+    "People/Alex Rivera.md",
+    "People/Maya Chen.md",
+    "Views/Contact board.md",
+    "Start here.md",
+    "People/Sam Patel.md",
+    "Daily/2026-09-18.md",
+    "Views/Birthdays.md",
+    "Projects/Garden planner.md",
+    "Projects/Repair cafe website.md",
+    "Projects/Studio portfolio.md",
+    "Daily/2026-10-23.md",
+    "Daily/2026-10-26.md",
+    "Events/Autumn makers evening.md",
+    "Events/Community repair afternoon.md"
+  ]
+}

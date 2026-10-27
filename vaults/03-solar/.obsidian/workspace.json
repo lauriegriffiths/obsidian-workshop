@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "2c812e36d377b306",
+    "type": "split",
+    "children": [
+      {
+        "id": "49275af7a282d2f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88f08ced2906a06c",
+            "type": "leaf",
+            "state": {
+              "type": "map",
+              "state": {
+                "name": "Default",
+                "mapZoom": 1,
+                "mapCenter": {
+                  "lat": 40.44694705960048,
+                  "lng": -180.70312500000003
+                },
+                "query": "",
+                "queryError": false,
+                "chosenMapSource": 0,
+                "forceHistorySave": false,
+                "followActiveNote": false,
+                "followMyLocation": false,
+                "embeddedHeight": 300,
+                "autoFit": false,
+                "lock": false,
+                "showLinks": false,
+                "linkColor": "red",
+                "markerLabels": "off",
+                "editMode": false
+              },
+              "icon": "map-pin",
+              "title": "Interactive Map View"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2b0e6106e23d29e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6f2611808f47a49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a2e0818d9966af8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "dd502b6215cc7bbc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7a1636066006cb3d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0bec9299556965ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "8035c72b1374ac04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "043cdbaf0176a46d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sites/Riverside plot.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "7159192c913a3231",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sites/Riverside plot.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "06b74e8b68709c57",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "de00106585a4a070",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sites/Riverside plot.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-map-view:Open map view": false
+    }
+  },
+  "active": "88f08ced2906a06c",
+  "lastOpenFiles": [
+    "Sites/Riverside plot.md",
+    "Sites/Orchard edge.md",
+    "Sites/North field.md",
+    "Owners/Emi Sato.md",
+    "Owners/Aki Mori.md",
+    "Daily/2026-10-26.md"
+  ]
+}
