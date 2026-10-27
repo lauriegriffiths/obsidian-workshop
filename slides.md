@@ -7,6 +7,42 @@ transition: fade
 slideNumber: true
 ---
 
+<style>
+/* Deck-local styles for Obsidian Advanced Slides (reveal.js). */
+.reveal { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; font-size: 30px; color: #243447; }
+.reveal .slides { text-align: left; }
+.reveal .slides section { box-sizing: border-box; padding: 24px 34px; }
+.reveal h1, .reveal h2 { color: #153d56; text-transform: none; letter-spacing: -0.025em; line-height: 1.15; }
+.reveal h1 { font-size: 1.65em; margin: 0 0 0.7em; padding-bottom: 0.3em; border-bottom: 4px solid #16857b; }
+.reveal h2 { font-size: 1.2em; margin: 0.7em 0 0.4em; }
+.reveal p, .reveal li { line-height: 1.4; }
+.reveal p { margin: 0 0 0.7em; }
+.reveal ul, .reveal ol { display: block; margin: 0 0 0.7em 1.15em; }
+.reveal li { margin-bottom: 0.38em; padding-left: 0.12em; }
+.reveal li > p { margin: 0; }
+.reveal strong { color: #11695f; }
+.reveal a { color: #116f9b; text-decoration: underline; text-underline-offset: 0.14em; }
+.reveal table { width: 100%; margin: 0.5em 0; font-size: 0.78em; line-height: 1.4; border-collapse: collapse; }
+.reveal table th { background: #153d56; color: white; }
+.reveal table th, .reveal table td { padding: 0.55em 0.65em; border-bottom: 1px solid #cbd8de; vertical-align: top; }
+.reveal table tbody tr:nth-child(even) { background: #eff5f6; }
+.reveal code { font-size: 0.87em; background: #eef3f5; padding: 0.08em 0.2em; border-radius: 4px; }
+.reveal pre { width: 100%; margin: 0.6em 0; box-shadow: none; font-size: 0.65em; }
+.reveal pre code { padding: 18px 22px; line-height: 1.4; max-height: 460px; }
+.reveal pre code, .reveal pre code * { color: #172b3a !important; background: #eef3f5 !important; opacity: 1 !important; }
+.reveal section img { display: block; max-width: 100%; max-height: 510px; object-fit: contain; margin: 0.4em auto; border: 0; box-shadow: none; }
+.reveal section.title-slide { padding-top: 150px; }
+.reveal section.title-slide h1 { font-size: 2.15em; }
+.reveal section.title-slide p:first-of-type { font-size: 1.2em; color: #11695f; }
+.reveal section.activity h1 { border-color: #c17b25; }
+.reveal section.activity > p:first-of-type { padding: 0.4em 0.65em; background: #fff3df; border-left: 5px solid #c17b25; font-size: 0.8em; }
+.reveal section.activity > p:first-of-type strong { color: #805115; }
+.reveal section.compact { font-size: 0.9em; }
+.reveal .slide-number { font-size: 16px; background: #153d56; color: white; }
+</style>
+
+<!-- .slide: class="title-slide" -->
+
 # Managing your digital world
 
 From unstructured to structured data
@@ -31,7 +67,6 @@ Laurie Griffiths
 # What is Obsidian?
 
 - An app for writing and connecting notes.
-
 - A vault is a folder containing your notes. The notes are Markdown text files.
 - Files hold the information. Links connect files.
 
@@ -96,7 +131,6 @@ These ideas apply beyond Obsidian. This is the tool I happen to use.
 | ---------------------------- | ------------------------------------------- | ----------------------------------------------------- |
 | A note about meeting someone | A person note linked to dated conversations | A contact table with birthdays and addresses          |
 
-
 ---
 
 # How much structure?
@@ -111,9 +145,7 @@ These ideas apply beyond Obsidian. This is the tool I happen to use.
 
 # Which ink cartridge?
 
-
-![Ink catridges](./ink-cartridge.jpg)
-
+![Ink cartridges](./ink-cartridge.jpg)
 
 <!-- Presenter: 7.5–8.5 min. I was at the home center. I knew I needed to buy a water filter.  But what type? What size?  Of course, normally the solution is to make a phone call.  'Hi, can you check the water filter? What type is it? What size?  Do we need a long life version?  No, no, you unscrew it.  It's not a backwards screw -->
 
@@ -132,6 +164,8 @@ That is already useful.
 <!-- Presenter: 8.5–9.5 min. Demo: Everyday vault, Household/Water filter. Search for water filter. Product number is fictional. -->
 
 ---
+
+<!-- .slide: class="activity" -->
 
 # Your turn
 
@@ -187,14 +221,14 @@ I said I would send a rough example on Friday.
 
 # A quick Markdown primer
 
-| |  |
+| Purpose | Type this |
 | --- | --- |
 | Heading | `# Heading` |
 | Smaller heading | `## Smaller heading` |
 | List item | `- Something to remember` |
 | Task | `- [ ] Send the sketch` |
 | Website | `[link](example.com)` |
-| Link to a note | `[ [ Maya Chen ] ]` |
+| Link to a note | `[[Maya Chen]]` |
 
 <!-- Presenter: 15–16.5 min. Type a heading and both kinds of link. Double-bracket links are Obsidian-style wiki links, not standard Markdown syntax. The image example is a relative path to a real file. Blank lines separate paragraphs. Participants can refer back to this slide during the exercise. -->
 
@@ -223,6 +257,8 @@ I do not need all of those fields on the day I meet her.
 <!-- Presenter: 19–19.5 min. Show raw-to-structured example in demo-stages.md. Keep the daily note unchanged. -->
 
 ---
+
+<!-- .slide: class="activity" -->
 
 # Your turn: four minutes
 
@@ -285,7 +321,7 @@ SORT file.name ASC
 ```
 ````
 
-- Three backticks plus `dataview` open and close the block
+- Open with three backticks plus `dataview`; close with three backticks.
 - `TABLE` chooses columns. `FROM` chooses a folder.
 - Switch to Reading view to see the table.
 
@@ -298,6 +334,8 @@ SORT file.name ASC
 AI is very good at writing dataview queries!
 
 ---
+
+<!-- .slide: class="activity" -->
 
 # Your turn
 
@@ -338,6 +376,8 @@ Contact to make / Waiting for reply / Next step agreed
 
 ---
 
+<!-- .slide: class="activity compact" -->
+
 # Your turn: remember the conversation, move the work
 
 **3 minutes · Everyday demo vault**
@@ -374,6 +414,8 @@ Try it, record what happened, and revise the design.
 <!-- Presenter: 40–41 min. Follow Limited communication to Harbour rescue v1, then Playtest 01 and v2. Use local graph if time. The valuable part is the reason for a change, not graph density. -->
 
 ---
+
+<!-- .slide: class="activity" -->
 
 # Your turn: combine two references
 
@@ -415,6 +457,8 @@ One owner can connect to several site notes.
 
 ---
 
+<!-- .slide: class="activity" -->
+
 # Your turn: one owner, another site
 
 **3 minutes · Solar demo vault**
@@ -444,16 +488,18 @@ When finding or comparing information becomes awkward, try adding structure.
 
 # What you can do now
 
-Create a note.
-Link it to another note.
-Find the information again.
-Recognise when a property or a different view might help.
+- Create a note.
+- Link it to another note.
+- Find the information again.
+- Recognise when a property or a different view might help.
 
 Your own workflow will develop with use.
 
 <!-- Presenter: 53–54 min. Mention the guide and demo vaults. Sync to another device is a separate setup step; a local vault is not automatically on a phone. -->
 
 ---
+
+<!-- .slide: class="activity" -->
 
 # Your first step
 

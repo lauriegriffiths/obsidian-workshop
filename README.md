@@ -1,3 +1,7 @@
+# Download Obsidian
+
+[https://obsidian.md](https://obsidian.md)
+
 # Managing your digital world / デジタルな日常を整理する
 
 A beginner Obsidian workshop by Laurie Griffiths: capture useful information, then add structure as needed.  

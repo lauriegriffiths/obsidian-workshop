@@ -170,8 +170,7 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-kanban:Create new board": false
+      "bases:Create new base": false
     }
   },
   "active": "5f3bd822e0491e9e",

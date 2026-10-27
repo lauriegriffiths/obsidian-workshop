@@ -8,7 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d56bd94a96df598e",
+            "id": "93dc4d394e8651bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "slides.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "slides"
+            }
+          }
+        ]
+      },
+      {
+        "id": "235006cec31ed315",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77d2bd0d4d49790c",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -182,13 +202,12 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-map-view:Open map view": false
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "d56bd94a96df598e",
+  "active": "77d2bd0d4d49790c",
   "lastOpenFiles": [
+    "obsidian-repo.svg",
     "slides-ja.md",
     "slides-bilingual.md",
     "slides.md",

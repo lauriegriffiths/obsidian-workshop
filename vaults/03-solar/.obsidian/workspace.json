@@ -4,37 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "49275af7a282d2f1",
+        "id": "591f224d8074b014",
         "type": "tabs",
         "children": [
           {
-            "id": "88f08ced2906a06c",
+            "id": "6a835b97f3b4fce2",
             "type": "leaf",
             "state": {
-              "type": "map",
-              "state": {
-                "name": "Default",
-                "mapZoom": 1,
-                "mapCenter": {
-                  "lat": 40.44694705960048,
-                  "lng": -180.70312500000003
-                },
-                "query": "",
-                "queryError": false,
-                "chosenMapSource": 0,
-                "forceHistorySave": false,
-                "followActiveNote": false,
-                "followMyLocation": false,
-                "embeddedHeight": 300,
-                "autoFit": false,
-                "lock": false,
-                "showLinks": false,
-                "linkColor": "red",
-                "markerLabels": "off",
-                "editMode": false
-              },
-              "icon": "map-pin",
-              "title": "Interactive Map View"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -190,7 +170,7 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "88f08ced2906a06c",
+  "active": "6a835b97f3b4fce2",
   "lastOpenFiles": [
     "Sites/Riverside plot.md",
     "Sites/Orchard edge.md",
