@@ -20,6 +20,18 @@
 
 Separate paragraphs with a blank line. ¹Obsidian wiki-link syntax. Keep double brackets together, with no spaces between the brackets.
 
+## Handy keyboard shortcuts
+
+Default shortcuts on Mac; use `Ctrl` instead of `Cmd` on Windows/Linux. Customize them in Settings → Hotkeys.
+
+| Action | Shortcut |
+| --- | --- |
+| Open a note by name (Quick switcher) | `Cmd+O` |
+| Find and run a command (Command palette) | `Cmd+P` |
+| Create a new note | `Cmd+N` |
+| Search across the vault | `Cmd+Shift+F` |
+| Bold / italic | `Cmd+B` / `Cmd+I` |
+
 ## Properties (YAML frontmatter)
 
 Put this at the **very top** of the file; ordinary note text goes after the closing `---`.
